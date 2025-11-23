@@ -1,0 +1,11 @@
+{
+  "metrics_snapshot": {
+    "timestamp": "2025-11-23T00:00:00Z",
+    "summary": {
+      "total_cost": 733.0,
+      "ec2_count": 2,
+      "ebs_count": 1,
+      "s3_buckets": 1
+    }
+  }
+}

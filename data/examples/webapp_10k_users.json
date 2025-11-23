@@ -1,0 +1,8 @@
+{
+  "app_name": "webapp",
+  "users": 10000,
+  "concurrent_pct": 0.01,
+  "peak_rps_per_user": 0.2,
+  "storage_gb": 200,
+  "database": true
+}

@@ -1,0 +1,55 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environments
+.venv/
+venv/
+env/
+*.env
+*.env.*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+
+# Logs & outputs
+outputs/
+logs/
+*.log
+
+# Local databases
+data/index/
+data/docs_crawl/
+data/finops.db
+
+# LLM / model files
+*.gguf
+*.bin
+models/
+GPT4All/
+gpt4all/
+gpt_models/
+
+# Terraform local state
+iac/.terraform/
+iac/.terraform.lock.hcl
+*.tfstate
+*.tfstate.*
+
+# Sensitive
+*.pem
+*.key
+*.crt
+
+# Cache
+.cache/
+.temp/
+tmp/

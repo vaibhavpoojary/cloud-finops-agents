@@ -1,0 +1,5 @@
+resource_id,resource_type,cpu_p95,monthly_spend,last_read_days,attached,util_gpu
+i-01234567,ec2,5,120.00,10,yes,0
+vol-0abcd111,ebs,0,8.00,400,no,0
+bucket-logs,s3,0,5.00,200,yes,0
+gpusrv-1,ec2,15,600.00,5,yes,10
